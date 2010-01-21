@@ -1,0 +1,20 @@
+Application to convert compatible AVI files to GIF.
+
+Changelog:
+= V 1.3 Alpha
++ Select Start and End Frames
+
+= V 1.2 Alpha
++ Enable to select part of avi to convert...
+
+= V 1.1 Alpha
++ Add percentage to progressbar
++ Sort out progress of gif compilation and find pause at end
++ Test on large avi's
++ Spead increase by disabeling preview
++ Save Indevidual Frames
++ Save every x frames
++ reset feature
+
+= V 1.0 Alpha
++ original build
